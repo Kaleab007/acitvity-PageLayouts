@@ -1,0 +1,53 @@
+span {
+    display: inline-block;
+  }
+   span {
+    display: inline-block;
+    background-color: rgb(44, 91, 219);
+    padding: 10px;
+    border: 5px solid rgb(34, 31, 31);
+  } 
+  
+  #one {
+    background-color:rgb(173, 228, 230);
+    width: 200px;
+    height: 200px;
+  }
+  
+  #two {
+    background-color: rgb(100, 237, 107);
+    width: 200px;
+    height: 100px;
+  }
+  
+  #three {
+    background-color: rgb(187, 189, 243);
+    width: 175px;
+    height: 150px;
+  } 
+
+  #four { background-color: rgb(15, 96, 189);
+    width: 175px;
+    height: 150px;
+
+  }
+  
+  div,
+  span {
+    margin: 10px;
+  }
+  
+  span {
+    border: 5px solid #333;
+    
+    padding: 15px 15px;
+  }
+  
+  #pics span,
+  #text span {
+    padding: 35px 30px;
+  }
+  
+  #text span {
+    background-color: rgb(10, 1, 1);
+  } 
